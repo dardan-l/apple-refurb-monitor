@@ -1,5 +1,5 @@
 {
-  "count_alerted": false,
+  "count_alerted": true,
   "health_alerted": false,
   "seen_skus": []
 }
