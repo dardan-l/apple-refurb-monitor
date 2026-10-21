@@ -1,5 +1,5 @@
 {
-  "count_alerted": true,
+  "count_alerted": false,
   "health_alerted": false,
   "seen_skus": [
     "G1JV1LL/A",
@@ -11,8 +11,6 @@
     "G1JVJLL/A",
     "G1JVKLL/A",
     "G1JVVLL/A",
-    "G1KZ6LL/A",
-    "G1KZCLL/A",
-    "G1KZLLL/A"
+    "G1KZ6LL/A"
   ]
 }
