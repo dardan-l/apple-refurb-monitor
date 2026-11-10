@@ -1,10 +1,8 @@
 {
-  "count_alerted": true,
+  "count_alerted": false,
   "health_alerted": false,
   "seen_skus": [
-    "G1JV7LL/A",
     "G1JVJLL/A",
-    "G1JVKLL/A",
-    "G1KZDLL/A"
+    "G1JVKLL/A"
   ]
 }
